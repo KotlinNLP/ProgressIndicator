@@ -8,6 +8,17 @@ ProgressIndicator implements different indicators to track a progress:
 ProgressIndicator is part of [KotlinNLP](http://kotlinnlp.com/ "KotlinNLP").
 
 
+## Import with Maven
+
+```xml
+<dependency>
+    <groupId>com.kotlinnlp</groupId>
+    <artifactId>progressindicator</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
+
 ## Getting Started
 
 Simply declare a ProgressIndicator passing it the total amount of steps to track and the call the `tick()` method to 
