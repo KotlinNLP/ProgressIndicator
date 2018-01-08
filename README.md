@@ -8,7 +8,9 @@ ProgressIndicator implements different indicators to track a progress:
 ProgressIndicator is part of [KotlinNLP](http://kotlinnlp.com/ "KotlinNLP").
 
 
-## Import with Maven
+## Getting Started
+
+### Import with Maven
 
 ```xml
 <dependency>
@@ -19,7 +21,7 @@ ProgressIndicator is part of [KotlinNLP](http://kotlinnlp.com/ "KotlinNLP").
 ```
 
 
-## Getting Started
+### Example
 
 Simply declare a ProgressIndicator passing it the total amount of steps to track and the call the `tick()` method to 
 fo forward of one single step. Is it possible to pass it the amount of steps setting the `amount` parameter.
