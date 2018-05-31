@@ -1,4 +1,8 @@
-# ProgressIndicator [![GitHub version](https://badge.fury.io/gh/KotlinNLP%2FProgressIndicator.svg)](https://badge.fury.io/gh/KotlinNLP%2FProgressIndicator) [![Build Status](https://travis-ci.org/KotlinNLP/ProgressIndicator.svg?branch=master)](https://travis-ci.org/KotlinNLP/ProgressIndicator)
+# ProgressIndicator ![No Maintenance Intended](http://unmaintained.tech/badge.svg) [![GitHub version](https://badge.fury.io/gh/KotlinNLP%2FProgressIndicator.svg)](https://badge.fury.io/gh/KotlinNLP%2FProgressIndicator) [![Build Status](https://travis-ci.org/KotlinNLP/ProgressIndicator.svg?branch=master)](https://travis-ci.org/KotlinNLP/ProgressIndicator)
+
+Deprecated. Please use 
+[Utils/progressindicator](https://github.com/KotlinNLP/Utils/tree/master/src/main/kotlin/com/kotlinnlp/utils/progressindicator) 
+instead.
 
 ProgressIndicator implements different indicators to track a progress: 
 * Bar ```|███████████ | 95%```
